@@ -163,7 +163,7 @@ const Header = () => {
                 >
                   <Link
                     aria-label="Youtube Channel"
-                    href="https://youtube.com/@piyushgargdev"
+                    href="/"
                     target="_blank"
                     title="Youtube Channel"
                     id="youtube-channel"
@@ -174,7 +174,7 @@ const Header = () => {
                   </Link>
 
                   <Link
-                    href="https://github.com/piyushgarg-dev/"
+                    href="https://github.com/GitHub-Sanjit"
                     target="_blank"
                     title="Github Account"
                     id="github-account"
@@ -185,7 +185,7 @@ const Header = () => {
                   </Link>
 
                   <Link
-                    href="https://twitter.com/piyushgarg_dev"
+                    href="/"
                     target="_blank"
                     title="Twitter Account"
                     id="twitter-account"
@@ -196,7 +196,7 @@ const Header = () => {
                   </Link>
 
                   <Link
-                    href="https://www.linkedin.com/in/piyushgarg195/"
+                    href="https://www.linkedin.com/in/sanjit-sarkar124/"
                     target="_blank"
                     title="LinkedIn Account"
                     id="linkedin-account"

@@ -2,7 +2,6 @@ import React from "react";
 
 import { Container, Row, Col } from "reactstrap";
 import classes from "./footer.module.css";
-import Link from "next/link";
 
 const Footer = () => {
   const date = new Date();
@@ -15,7 +14,7 @@ const Footer = () => {
           <Col lg="12">
             <div className={`${classes.footer__copyright}`}>
               <p>
-                &copy; Copyright {year} - Developed by Piyush Garg. All right
+                &copy; Copyright {year} - Developed by Sanjit Sarkar. All right
                 reserved.
               </p>
             </div>
