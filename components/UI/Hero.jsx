@@ -18,11 +18,11 @@ const Hero = () => {
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Sanjit Sarkar</h2>
-              <h5 className="mb-4">Fullstack Developer & Instructor</h5>
+              <h5 className="mb-4">Web Developer</h5>
               <p id="about-me">
-                Hi there! My name is Piyush Garg and I&rsquo;m a software
-                engineer with over 5 years of experience in the industry. I love
-                all things tech and coding, and on my channel, I share my
+                Hi there! My name is Sanjit Sarkar and I&rsquo;m a Web Developer with over 1 
+                years of experiencey. I love
+                all things tech and coding, and I share my
                 knowledge and experience with others.
               </p>
             </div>
@@ -31,7 +31,7 @@ const Hero = () => {
                 <div className="absolute transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r animate-pulse hover:animate-none from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt"></div>
                 <Link
                   target="_blank"
-                  href="https://discord.gg/kRSRxBQ6xf"
+                  href="https://discord.gg/DVGYF5DCfX"
                   className="relative text-sm sm:text-md md:text-lg text-center items-center justify-center px-8 py-4  font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
                   role="button"
                 >
@@ -51,8 +51,8 @@ const Hero = () => {
             </div>
           </Col>
           <Col lg="6" md="6">
-            <div className={`${classes.hero__img} text-end`}>
-              <Image alt="Piyush Garg" src={heroImg} width="450" height="450" />
+            <div className={`${classes.hero__img} text-end rounded-full`}>
+              <Image alt="Piyush Garg" src={heroImg} width="450" height="450"  />
             </div>
           </Col>
         </Row>
@@ -81,12 +81,12 @@ const Hero = () => {
                   </span>
                   I&apos;m Sanjit Sarkar
                 </h2>
-                <h5 className="mb-4">Fullstack Developer & Instructor</h5>
+                <h5 className="mb-4">Web Developer</h5>
                 <p id="about-me" className="text-center">
-                  Hi there! My name is Sanjit Sarkar and I&rsquo;m a software
-                  engineer with over 5 years of experience in the industry. I
-                  love all things tech and coding, and on my channel, I share my
-                  knowledge and experience with others.
+                Hi there! My name is Sanjit Sarkar and I&rsquo;m a Web Developer with over 1 
+                years of experiencey. I love
+                all things tech and coding, and I share my
+                knowledge and experience with others.
                 </p>
               </div>
             </div>
@@ -95,7 +95,7 @@ const Hero = () => {
                 <div className="absolute w-full transitiona-all duration-1000 opacity-70 -inset-px bg-gradient-to-r animate-pulse hover:animate-none from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100 group-hover:-inset-1 group-hover:duration-200 animate-tilt"></div>
                 <Link
                   target="_blank"
-                  href="https://discord.gg/kRSRxBQ6xf"
+                  href="https://discord.gg/DVGYF5DCfX"
                   className="relative w-full text-sm sm:text-md md:text-lg text-center items-center justify-center px-8 py-4  font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
                   role="button"
                 >
