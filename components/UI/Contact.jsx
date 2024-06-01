@@ -7,7 +7,7 @@ import Form from "./Form";
 import axios from "axios";
 import { useState } from "react";
 import NewTwitterLogo from "./NewTwitterlogo";
-import { RiYoutubeFill, RiGithubFill, RiTwitterFill, RiLinkedinFill } from "react-icons/ri";
+import { RiYoutubeFill, RiGithubFill, RiLinkedinFill } from "react-icons/ri";
 const Contact = () => {
   const [submitted, setSubmitted] = useState(false);
   const handleSubmit = async (event) => {
@@ -44,17 +44,23 @@ const Contact = () => {
                 <span>
                   <i className="ri-map-pin-line"></i>
                 </span>
-                <p>Planet Earth 🌍</p>
+                <p>Jashore, Bangladesh</p>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>
-                  <a href="mailto:piyushgarg.dev@gmail.com">
+                  <i className="ri-whatsapp-line"></i>
+                </span>
+                <p>+880 1575 017430</p>
+              </li>
+              <li className={`${classes.info__item}`}>
+                <span>
+                  <a href="mailto:sanjit.est14@gmail.com">
                     <i className="ri-mail-line"></i>
                   </a>
                 </span>
                 <p>
-                  <a className="hover:text-[#01d293]" href="mailto:piyushgarg.dev@gmail.com">
-                    piyushgarg.dev@gmail.com
+                  <a className="hover:text-[#01d293]" href="mailto:sanjit.est14@gmail.com">
+                    sanjit.est14@gmail.com
                   </a>
                 </p>
               </li>
@@ -64,7 +70,7 @@ const Contact = () => {
               <Link
                 className="hover:text-[#01d293] duration-300"
                 aria-label="Youtube Channel"
-                href="https://youtube.com/@piyushgargdev"
+                href="/"
                 target="_blank"
               >
                 <RiYoutubeFill />
@@ -72,7 +78,7 @@ const Contact = () => {
               <Link
                 className="hover:text-[#01d293] duration-300"
                 aria-label="Github Profile"
-                href="https://github.com/piyushgarg-dev"
+                href="https://github.com/GitHub-Sanjit"
                 target="_blank"
               >
                 <RiGithubFill />
@@ -80,7 +86,7 @@ const Contact = () => {
               <Link
                 className="hover:text-[#01d293] duration-300"
                 aria-label="Twitter Account"
-                href="https://twitter.com/piyushgarg_dev"
+                href="/"
                 target="_blank"
               >
              
@@ -89,7 +95,7 @@ const Contact = () => {
               <Link
                 className="hover:text-[#01d293] duration-300"
                 aria-label="LinedIn Account"
-                href="https://www.linkedin.com/in/piyushgarg195/"
+                href="https://www.linkedin.com/in/sanjit-sarkar124/"
                 target="_blank"
               >
                 <RiLinkedinFill />
