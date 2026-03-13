@@ -1,7 +1,6 @@
 # Sanjit Sarkar
 
-### Free Open Source BootCamp
-This repository is a part of "Free Open Source BootCamp". Checkout [Open Source Bootcamp Playlist on Youtube.](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9)
+
 
 ### Setting up Locally
 
