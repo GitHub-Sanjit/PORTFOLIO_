@@ -25,6 +25,6 @@ yarn dev
 ### Setting Up the Project
 [Click here](https://www.awesomescreenshot.com/video/18181026?key=45623fef0318912e62b9aacee5038999) to view the video tutorial which will teach you step by step on how to set up this project. Let's get into it now
 
-### Repo Activity
+### Repo
 
 ![Activity](https://repobeats.axiom.co/api/embed/53ac5d73666adb61764d0945fa9df15ccdc336ea.svg "Repobeats analytics image")
